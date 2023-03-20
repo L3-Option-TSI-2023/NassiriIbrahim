@@ -22,16 +22,16 @@ Différences entre RAM et ROM :
 La principale différence entre la RAM et la ROM est que la RAM est volatile et la ROM est non volatile. Cela signifie que les données stockées dans la RAM sont perdues lorsque l'alimentation est coupée, tandis que les données stockées dans la ROM sont conservées même si l'alimentation est coupée.
 De plus, la RAM est utilisée pour stocker des données temporaires, tandis que la ROM est utilisée pour stocker des données permanentes. Enfin, la RAM est généralement plus rapide mais plus chère que la ROM.
 
-	SRAM	DRAM
+\begin{tabular}{|c|c|c|}
+\hline
+	                            SRAM	                         DRAM
 Technologie de stockage	2 inverseurs en latch (6T)	2 condensateurs en 1T
-Rafraichissement	NON	OUI
-Vitesse	Plutôt élevée (qq ns)	Plutôt lente (plus dizaine de ns)
-Densité (bit /mm²)	Moins dense que DRAM	La plus élevée
-Capacite	Faible (qq Mo)	Elevée (plus Go)
-Consommation	Proportionnelle a la fréquence	Elevée car refresh
-Prix (£ /bit)	5000 £/Gb	50 £/Gb
-
-
+Rafraichissement	                 NON	                 OUI
+Vitesse	                  Plutôt élevée (qq ns)   Plutôt lente (plus dizaine de ns)
+Densité (bit /mm²)	      Moins dense que DRAM	       La plus élevée
+Capacite	                  Faible (qq Mo)	          Elevée (plus Go)
+Consommation	        Proportionnelle a la fréquence	Elevée car refresh
+Prix (£ /bit)                 	5000 £/Gb	                      50 £/Gb
 
 Conclusion :
 
