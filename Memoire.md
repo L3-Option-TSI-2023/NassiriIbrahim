@@ -3,6 +3,16 @@ introduction :
 
 Les mémoires sont des composants électroniques utilisés pour stocker des données. Deux types de mémoires sont couramment utilisés : les mémoires RAM (Random Access Memory) et les mémoires ROM (Read Only Memory). Dans ce rapport, nous allons discuter des différents types de mémoires RAM et ROM, de leurs différences et de leurs détails.
 
+Structure générale d'une mémoire :
+
+La structure générale d'une mémoire dépend de son type et de son architecture. Cependant, la plupart des mémoires ont une organisation similaire en termes de conception. En général, une mémoire est composée de cellules de mémoire individuelles, chacune capable de stocker un bit d'information.
+
+Les cellules de mémoire sont organisées en lignes et en colonnes pour former une matrice. Les lignes sont sélectionnées en utilisant un signal de ligne, tandis que les colonnes sont sélectionnées en utilisant un signal de colonne. Les intersections entre les lignes et les colonnes sont appelées des adresses.
+
+Pour stocker de l'information, un signal électrique est envoyé à une cellule de mémoire spécifique à l'intersection d'une ligne et d'une colonne. Si le signal est suffisamment fort, il peut changer l'état de la cellule de mémoire, lui faisant ainsi stocker un bit d'information. Pour lire l'information stockée dans une cellule de mémoire, le processus est simplement inversé : un signal est envoyé à l'intersection de la ligne et de la colonne de la cellule de mémoire, et la valeur stockée dans la cellule est renvoyée.
+
+En résumé, la structure générale d'une mémoire consiste en une matrice de cellules de mémoire organisées en lignes et en colonnes, qui peuvent stocker et récupérer des bits d'information à des adresses spécifiques.
+
 Types de mémoires RAM :
 
 Il existe deux types de mémoires RAM : la mémoire RAM statique (SRAM) et la mémoire RAM dynamique (DRAM).
@@ -20,7 +30,7 @@ Il existe plusieurs types de mémoires ROM, notamment :
 Différences entre RAM et ROM :
 
 La principale différence entre la RAM et la ROM est que la RAM est volatile et la ROM est non volatile. Cela signifie que les données stockées dans la RAM sont perdues lorsque l'alimentation est coupée, tandis que les données stockées dans la ROM sont conservées même si l'alimentation est coupée.
-De plus, la RAM est utilisée pour stocker des données temporaires, tandis que la ROM est utilisée pour stocker des données permanentes. Enfin, la RAM est généralement plus rapide mais plus chère que la ROM.
+De plus, la RAM est utilisée pour stocker des données temporaires, tandis que la ROM est utilisée pour stocker des données permanentes. Enfin, la RAM est généralement plus rapide mais plus chère que la ROM. Ainsi que le tableau au dessous explique plus precisamment les diffences entre ces deux :
 
 	                         
 |           | SRAM | DRAM |
