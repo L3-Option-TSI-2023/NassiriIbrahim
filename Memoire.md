@@ -27,27 +27,11 @@ De plus, la RAM est utilisée pour stocker des données temporaires, tandis que 
 | --------- | --------- | --------- |
 |  Technologie de stockage  | 2 inverseurs en latch (6T)|  condensateurs en 1T |
 | Rafraichissement | NON	 | OUI |
-| Ligne 3, Colonne 1 | Ligne 3, Colonne 2 | Ligne 3, Colonne 3 |
-| Ligne 4, Colonne 1 | Ligne 4, Colonne 2 | Ligne 4, Colonne 3 |
-| Ligne 5, Colonne 1 | Ligne 5, Colonne 2 | Ligne 5, Colonne 3 |
-| Ligne 6, Colonne 1 | Ligne 6, Colonne 2 | Ligne 6, Colonne 3 |
-| Ligne 7, Colonne 1 | Ligne 7, Colonne 2 | Ligne 7, Colonne 3 |
-| Ligne 8, Colonne 1 | Ligne 8, Colonne 2 | Ligne 8, Colonne 3 |
-				 
-				 
-				 
-				 
-				 
-				 
-				
-	 
-	                                     OUI
-Vitesse	            Plutôt élevée (qq ns) 	Plutôt lente (plus dizaine de ns)
-Densité (bit /mm²)	  Moins dense que DRAM        	La plus élevée
-Capacite	             Faible (qq Mo)            	Elevée (plus Go)
-Consommation	  Proportionnelle a la fréquence   	Elevée car refresh
-Prix (£ /bit)	              5000 £/Gb	                 50 £/Gb
-
+| Vitesse	 |   Plutôt élevée (qq ns) | Plutôt lente (plus dizaine de ns) |
+| Densité (bit /mm²) | Moins dense que DRAM   | La plus élevée |
+|Capacite | Faible (qq Mo)  | Elevée (plus Go)|
+| Consommation| Proportionnelle a la fréquence    | Elevée car refresh |
+| Prix (£ /bit) | 5000 £/Gb	| 50 £/Gb
 
 Conclusion :
 
