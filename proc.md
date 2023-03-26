@@ -1,4 +1,4 @@
-                                                      <h1 align="center";">MICROcontrolleur/processeur</h1>
+<h1 align="center";">MICROcontrolleur/processeur</h1>
 
 <h1 style="font-size: 20px;">I - INTRODUCTION</h1>
 
