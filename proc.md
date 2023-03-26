@@ -113,7 +113,7 @@ offrir des performances supérieures dans certaines applications.
 
                                                          
                                                          
-                       <img src="https://interstices.info/wp-content/uploads/jalios/modele-neumann/modele-originel2.gif" alt="Architecture Von Neuman"> 
+<img src="https://interstices.info/wp-content/uploads/jalios/modele-neumann/modele-originel2.gif" alt="Architecture Von Neuman"> 
                                                                                                                                                       
                     
                     
@@ -132,10 +132,8 @@ des unités de traitement dédiées pour les données et les instructions. De pl
 petite que la mémoire de données, ce qui peut limiter la taille des programmes pouvant être exécutés.
 
 En résumé, l'architecture Harvard est similaire à l'architecture von Neumann, mais avec des mémoires physiquement séparées pour les données et les instructions, ce qui
-améliore les performances de traitement, mais peut également rendre la conception et la mise en œuvre de l'ordinateur plus complexes.                    
+améliore les performances de traitement, mais peut également rendre la conception et la mise en œuvre de l'ordinateur plus complexes.
+                                                                                                                               
                     
-                    
-                    
-                       <img src="https://www.thecrazyprogrammer.com/wp-content/uploads/2019/02/Harvard-Architecture.jpg?ezimgfmt=rs:238x229/rscb1/ng:webp/ngcb1"
-                       alt="Architecture Harvard">
+<img src="https://www.thecrazyprogrammer.com/wp-content/uploads/2019/02/Harvard-Architecture.jpg?ezimgfmt=rs:238x229/rscb1/ng:webp/ngcb1"alt="Architecture Harvard">
 
