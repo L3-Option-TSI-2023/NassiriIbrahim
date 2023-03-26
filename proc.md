@@ -1,6 +1,6 @@
 <h1 align="center";">MICROcontrolleur/processeur</h1>
 
-<h1 style="font-size: 20px;">I - INTRODUCTION</h1>
+<h2>I - INTRODUCTION</h2>
 
 Les microprocesseurs et les microcontrôleurs sont des circuits électroniques utilisés dans l'informatique et l'électronique. Les microprocesseurs effectuent des
 opérations de calcul et de traitement de données dans les ordinateurs et les systèmes informatiques, tandis que les microcontrôleurs sont conçus pour effectuer des
@@ -8,7 +8,7 @@ tâches spécifiques dans des applications embarquées. Les programmeurs écrive
 conçus. Les microprocesseurs et les microcontrôleurs sont de plus en plus rapides, puissants et économes en énergie, et sont indispensables dans de nombreux domaines de
 la technologie moderne.
 
-<h1 style="font-size: 20px;">II - C'est quoi  un Microprocesseur ? </h1>
+<h2>II - C'est quoi  un Microprocesseur ? </h2>
 
 Un microprocesseur est un circuit électronique qui effectue les fonctions de calcul et de traitement de l'information dans un ordinateur ou un système informatique. Il
 est généralement constitué d'un seul processeur sur une puce, avec de la mémoire vive (RAM) et des interfaces d'entrée/sortie (E/S).
@@ -20,7 +20,7 @@ Les microprocesseurs sont utilisés dans un large éventail d'applications, alla
 tels que les systèmes de navigation GPS et les appareils électroniques grand public. Les microprocesseurs modernes sont de plus en plus rapides et puissants, avec des
 architectures sophistiquées pour permettre des performances élevées tout en utilisant moins d'énergie.
 
-<h1 style="font-size: 20px;">III - C'est quoi  un Microcontrolleur ? </h1>
+<h2>III - C'est quoi  un Microcontrolleur ? </h2>
 
 Un microcontrôleur est un petit ordinateur sur une seule puce (ou circuit intégré) qui est conçu pour effectuer des tâches spécifiques. Il est généralement utilisé pour
 contrôler des dispositifs électroniques tels que des machines, des robots, des systèmes d'éclairage, des systèmes de contrôle d'accès, des appareils électroménagers et
