@@ -65,7 +65,7 @@ Le tableau suivant résume les différents types des microcontrolleurs :
 d'apres le tableau on se focalise sur jeu d'instructions et les architectures 
         
 <h4>a - jeu d'instruction </h4>  
-      <h5> - CISC</h5>   
+<h5> - CISC</h5>   
       
 CISC est l'acronyme de "Complex Instruction Set Computer" (ordinateur à jeu d'instructions complexes). C'est un type d'architecture de processeur qui se caractérise
 par un jeu d'instructions relativement grand et complexe, capable d'exécuter des tâches plus sophistiquées en une seule instruction. Les processeurs CISC sont conçus
@@ -78,7 +78,7 @@ par des processeurs RISC et des architectures hybrides qui combinent les avantag
 architecture plus hybride, avec un jeu d'instructions réduit pour améliorer les performances et la consommation d'énergie, mais avec des unités de traitement
 spécifiques pour des tâches plus complexes et spécialisées.                        
                     
-        <h5> - RISC</h5>             
+ <h5> - RISC</h5>             
                     
 RISC est l'acronyme de "Reduced Instruction Set Computer" (ordinateur à jeu d'instructions réduit). C'est un type d'architecture de processeur qui se caractérise par
 un jeu d'instructions relativement petit et simple, mais capable d'exécuter des tâches en utilisant un nombre plus important d'instructions. Les processeurs RISC sont
@@ -93,7 +93,7 @@ chaque instruction. Cela leur permet de traiter un plus grand nombre d'instructi
 nécessitant une puissance de calcul élevée, telles que le traitement d'images, la reconnaissance vocale et les calculs scientifiques.                    
                     
 <h4>b - Architecture </h4>
-         <h5> - Von Neuman </h5>                                                  
+<h5> - Von Neuman </h5>                                                  
                     
 L'architecture von Neumann est un modèle de conception de l'ordinateur proposé par le mathématicien et physicien John von Neumann en 1945. C'est une architecture de
 traitement de l'information qui repose sur le principe de stockage de données et de programme dans la même mémoire principale, avec une unité de traitement centralisée
@@ -117,7 +117,7 @@ offrir des performances supérieures dans certaines applications.
                                                                                                                                                       
                     
                     
-       <h5> - Harvard </h5>                    
+ <h5> - Harvard </h5>                    
                     
 L'architecture Harvard est un modèle de conception de l'ordinateur similaire à l'architecture von Neumann, mais avec une différence fondamentale : elle utilise des
 mémoires distinctes pour le stockage des données et des instructions. Dans une architecture Harvard, les données et les instructions sont stockées dans des mémoires
@@ -135,5 +135,5 @@ En résumé, l'architecture Harvard est similaire à l'architecture von Neumann,
 améliore les performances de traitement, mais peut également rendre la conception et la mise en œuvre de l'ordinateur plus complexes.
                                                                                                                                
                     
-<img src="https://www.thecrazyprogrammer.com/wp-content/uploads/2019/02/Harvard-Architecture.jpg?ezimgfmt=rs:238x229/rscb1/ng:webp/ngcb1"alt="Architecture Harvard">
+<img src="https://www.thecrazyprogrammer.com/wp-content/uploads/2019/02/Harvard-Architecture.jpg?ezimgfmt=rs:238x229/rscb1/ng:webp/ngcb1" alt="Architecture Harvard">
 
