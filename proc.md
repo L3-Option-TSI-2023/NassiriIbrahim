@@ -92,7 +92,7 @@ Les processeurs RISC sont généralement plus économes en énergie et plus rapi
 chaque instruction. Cela leur permet de traiter un plus grand nombre d'instructions par unité de temps, ce qui est particulièrement utile pour les applications
 nécessitant une puissance de calcul élevée, telles que le traitement d'images, la reconnaissance vocale et les calculs scientifiques.                    
                     
-<h4>ab - Architecture </h4>
+<h4>b - Architecture </h4>
          <h5> - Von Neuman </h5>                                                  
                     
 L'architecture von Neumann est un modèle de conception de l'ordinateur proposé par le mathématicien et physicien John von Neumann en 1945. C'est une architecture de
@@ -110,14 +110,32 @@ Cependant, l'architecture von Neumann a également des limites, notamment en ter
 limitations ont conduit au développement de nouvelles architectures d'ordinateurs, telles que les ordinateurs à architecture parallèle et distribuée, qui peuvent
 offrir des performances supérieures dans certaines applications.                    
                     
-<img src="https://interstices.info/wp-content/uploads/jalios/modele-neumann/modele-originel2.gif" alt="Architecture Von Neuman">                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
 
+                                                         
+                                                         
+                       <img src="https://interstices.info/wp-content/uploads/jalios/modele-neumann/modele-originel2.gif" alt="Architecture Von Neuman"> 
+                                                                                                                                                      
+                    
+                    
+       <h5> - Harvard </h5>                    
+                    
+L'architecture Harvard est un modèle de conception de l'ordinateur similaire à l'architecture von Neumann, mais avec une différence fondamentale : elle utilise des
+mémoires distinctes pour le stockage des données et des instructions. Dans une architecture Harvard, les données et les instructions sont stockées dans des mémoires
+physiquement séparées, chacune ayant sa propre unité de traitement dédiée.
+
+L'architecture Harvard permet d'accéder simultanément aux données et aux instructions, ce qui améliore considérablement la vitesse de traitement et les performances
+globales de l'ordinateur. Les ordinateurs utilisant cette architecture sont généralement utilisés dans des applications où la vitesse de traitement est critique,
+telles que le traitement du signal numérique, la vision par ordinateur, la reconnaissance de la parole et le traitement des images.
+
+Cependant, l'architecture Harvard peut être plus complexe à mettre en œuvre que l'architecture von Neumann, car elle nécessite des mémoires physiquement distinctes et
+des unités de traitement dédiées pour les données et les instructions. De plus, la taille de la mémoire de programme (mémoire pour les instructions) est souvent plus
+petite que la mémoire de données, ce qui peut limiter la taille des programmes pouvant être exécutés.
+
+En résumé, l'architecture Harvard est similaire à l'architecture von Neumann, mais avec des mémoires physiquement séparées pour les données et les instructions, ce qui
+améliore les performances de traitement, mais peut également rendre la conception et la mise en œuvre de l'ordinateur plus complexes.                    
+                    
+                    
+                    
+                       <img src="https://www.thecrazyprogrammer.com/wp-content/uploads/2019/02/Harvard-Architecture.jpg?ezimgfmt=rs:238x229/rscb1/ng:webp/ngcb1"
+                       alt="Architecture Harvard">
 
