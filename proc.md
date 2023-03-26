@@ -137,3 +137,46 @@ améliore les performances de traitement, mais peut également rendre la concept
                     
 <img src="https://www.thecrazyprogrammer.com/wp-content/uploads/2019/02/Harvard-Architecture.jpg?ezimgfmt=rs:238x229/rscb1/ng:webp/ngcb1" alt="Architecture Harvard">
 
+
+
+
+<h3>2 - Choix de Microcontroleurs</h3>
+
+Le choix d'un microcontrôleur dépend des besoins spécifiques du projet ou de l'application pour laquelle il est destiné. Voici quelques éléments à prendre en compte
+lors du choix d'un microcontrôleur :
+
+- Capacités de traitement : Les microcontrôleurs ont des capacités de traitement différentes. Certains sont conçus pour des applications simples nécessitant peu de
+ ressources de traitement, tandis que d'autres sont capables de gérer des tâches plus complexes nécessitant des ressources plus importantes.
+
+- Taille de la mémoire : Les microcontrôleurs ont une quantité de mémoire différente. Il est important de choisir un microcontrôleur avec suffisamment de mémoire pour
+stocker les programmes, les données et les variables nécessaires pour le projet.
+
+- Interfaces : Les microcontrôleurs peuvent avoir différentes interfaces, telles que des interfaces de communication série ou parallèle, des interfaces de conversion
+analogique-numérique, des interfaces réseau, etc. Il est important de choisir un microcontrôleur avec les interfaces nécessaires pour le projet.
+
+- Consommation d'énergie : Les microcontrôleurs peuvent avoir des exigences de consommation d'énergie différentes. Il est important de choisir un microcontrôleur avec
+une consommation d'énergie adaptée aux exigences de l'application.
+
+- Coût : Les microcontrôleurs sont disponibles à des coûts différents. Il est important de choisir un microcontrôleur qui répond aux exigences du projet tout en
+restant dans le budget.
+
+- Support et documentation : Il est important de vérifier si le fabricant du microcontrôleur propose un support et une documentation adéquats pour faciliter
+l'intégration du microcontrôleur dans le projet.
+
+En résumé, le choix d'un microcontrôleur dépend des exigences spécifiques du projet ou de l'application, y compris les capacités de traitement, la taille de la
+mémoire, les interfaces, la consommation d'énergie, le coût et le support et la documentation du fabricant.
+
+
+<h2>VI - Résumé </h2>
+
+Les microcontrôleurs sont des circuits intégrés programmables qui contiennent un microprocesseur, de la mémoire et des périphériques d'entrée/sortie intégrés. Ils sont
+utilisés pour contrôler des systèmes et des périphériques dans de nombreuses applications, allant de l'automobile à l'électronique grand public.
+
+Il existe deux types d'architectures de microprocesseurs : CISC et RISC. Les processeurs CISC sont conçus pour effectuer un grand nombre d'instructions complexes,
+tandis que les processeurs RISC sont conçus pour effectuer un petit nombre d'instructions simples de manière très efficace.
+
+Les microcontrôleurs sont souvent choisis en fonction des exigences spécifiques du projet, notamment les capacités de traitement, la taille de la mémoire, les
+interfaces, la consommation d'énergie, le coût et le support et la documentation du fabricant. Le choix entre l'architecture von Neumann et l'architecture Harvard
+dépend également des exigences spécifiques de l'application.
+
+En fin de compte, le choix du microcontrôleur doit être soigneusement évalué en fonction des exigences du projet pour assurer le succès de l'application.
