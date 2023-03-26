@@ -67,17 +67,50 @@ d'apres le tableau on se focalise sur jeu d'instructions et les architectures
 <h4>a - jeu d'instruction </h4>  
       <h5> - CISC</h5>   
       
-                        
+CISC est l'acronyme de "Complex Instruction Set Computer" (ordinateur à jeu d'instructions complexes). C'est un type d'architecture de processeur qui se caractérise
+par un jeu d'instructions relativement grand et complexe, capable d'exécuter des tâches plus sophistiquées en une seule instruction. Les processeurs CISC sont conçus
+pour minimiser la quantité de code machine nécessaire pour effectuer une tâche, en combinant plusieurs opérations en une seule instruction. Cela les rend capables de
+traiter des tâches plus complexes plus rapidement que les processeurs RISC (Reduced Instruction Set Computer), qui ont un jeu d'instructions plus petit et plus simple,
+mais nécessitent souvent plusieurs instructions pour effectuer des tâches complexes.
+
+Les processeurs CISC ont été largement utilisés dans les ordinateurs personnels et les serveurs jusqu'au début des années 2000, mais ont été progressivement remplacés
+par des processeurs RISC et des architectures hybrides qui combinent les avantages des deux types d'architectures. Les processeurs modernes ont tendance à avoir une
+architecture plus hybride, avec un jeu d'instructions réduit pour améliorer les performances et la consommation d'énergie, mais avec des unités de traitement
+spécifiques pour des tâches plus complexes et spécialisées.                        
                     
+        <h5> - RISC</h5>             
                     
+RISC est l'acronyme de "Reduced Instruction Set Computer" (ordinateur à jeu d'instructions réduit). C'est un type d'architecture de processeur qui se caractérise par
+un jeu d'instructions relativement petit et simple, mais capable d'exécuter des tâches en utilisant un nombre plus important d'instructions. Les processeurs RISC sont
+conçus pour maximiser la vitesse d'exécution des instructions individuelles en réduisant le temps nécessaire pour les décoder, les exécuter et les stocker en mémoire.
+
+Les processeurs RISC sont largement utilisés dans les systèmes embarqués tels que les smartphones, les tablettes, les consoles de jeux et les équipements de réseau,
+ainsi que dans les supercalculateurs et les serveurs de haute performance. Ils sont également utilisés dans les ordinateurs personnels avec des architectures hybrides
+qui combinent les avantages des processeurs RISC et CISC.
+
+Les processeurs RISC sont généralement plus économes en énergie et plus rapides que les processeurs CISC, car ils nécessitent moins de cycles d'horloge pour exécuter
+chaque instruction. Cela leur permet de traiter un plus grand nombre d'instructions par unité de temps, ce qui est particulièrement utile pour les applications
+nécessitant une puissance de calcul élevée, telles que le traitement d'images, la reconnaissance vocale et les calculs scientifiques.                    
                     
+<h4>ab - Architecture </h4>
+         <h5> - Von Neuman </h5>                                                  
                     
+L'architecture von Neumann est un modèle de conception de l'ordinateur proposé par le mathématicien et physicien John von Neumann en 1945. C'est une architecture de
+traitement de l'information qui repose sur le principe de stockage de données et de programme dans la même mémoire principale, avec une unité de traitement centralisée
+qui effectue des opérations sur les données selon un programme stocké en mémoire.
+
+Dans une architecture von Neumann, les données et les instructions sont stockées sous forme binaire dans une mémoire principale commune et partagée, qui est accessible
+à l'unité de traitement centrale. L'unité de traitement central est chargée de récupérer les instructions stockées en mémoire et de les exécuter en conséquence, en
+récupérant les données nécessaires en mémoire et en les traitant pour produire des résultats.
+
+L'architecture von Neumann a été largement utilisée dans le développement des ordinateurs modernes, en particulier les ordinateurs personnels et les serveurs. Cette
+architecture est simple, facile à comprendre et à mettre en œuvre, ce qui a permis de construire des ordinateurs efficaces et évolutifs.
+
+Cependant, l'architecture von Neumann a également des limites, notamment en termes de bande passante de la mémoire et de la vitesse de traitement des instructions. Ce
+limitations ont conduit au développement de nouvelles architectures d'ordinateurs, telles que les ordinateurs à architecture parallèle et distribuée, qui peuvent
+offrir des performances supérieures dans certaines applications.                    
                     
-                    
-                    
-                    
-                    
-                    
+<img src="https://interstices.info/wp-content/uploads/jalios/modele-neumann/modele-originel2.gif" alt="Architecture Von Neuman">                    
                     
                     
                     
