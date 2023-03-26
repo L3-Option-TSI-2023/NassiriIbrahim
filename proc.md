@@ -62,9 +62,12 @@ Le tableau suivant résume les différents types des microcontrolleurs :
 | 64 bits | --------- | --------- | --------- | Microship |
 | --------- | --------- | --------- | --------- | Texas Instruments |
                   
-                    
-                    
-                    
+d'apres le tableau on se focalise sur jeu d'instructions et les architectures 
+        
+<h4>a - jeu d'instruction </h4>  
+      <h5>. CISC</h5>   
+      
+                        
                     
                     
                     
