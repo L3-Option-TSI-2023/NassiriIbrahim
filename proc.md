@@ -113,7 +113,7 @@ offrir des performances supérieures dans certaines applications.
 
                                                          
                                                          
-<img src="https://interstices.info/wp-content/uploads/jalios/modele-neumann/modele-originel2.gif" alt="Architecture Von Neuman"> 
+<img align="center";"src="https://interstices.info/wp-content/uploads/jalios/modele-neumann/modele-originel2.gif" alt="Architecture Von Neuman"> 
                                                                                                                                                       
                     
                     
@@ -135,8 +135,8 @@ En résumé, l'architecture Harvard est similaire à l'architecture von Neumann,
 améliore les performances de traitement, mais peut également rendre la conception et la mise en œuvre de l'ordinateur plus complexes.
                                                                                                                                
                     
-<img src="https://www.thecrazyprogrammer.com/wp-content/uploads/2019/02/Harvard-Architecture.jpg?ezimgfmt=rs:238x229/rscb1/ng:webp/ngcb1" alt="Architecture Harvard">
-
+<img align="center";"src="https://www.thecrazyprogrammer.com/wp-content/uploads/2019/02/Harvard-Architecture.jpg?ezimgfmt=rs:238x229/rscb1/ng:webp/ngcb1"
+alt="Architecture Harvard">
 
 
 
