@@ -135,7 +135,7 @@ En résumé, l'architecture Harvard est similaire à l'architecture von Neumann,
 améliore les performances de traitement, mais peut également rendre la conception et la mise en œuvre de l'ordinateur plus complexes.
                                                                                                                                
                     
-<img align="center">< src="https://www.thecrazyprogrammer.com/wp-content/uploads/2019/02/Harvard-Architecture.jpg?ezimgfmt=rs:238x229/rscb1/ng:webp/ngcb1"
+<img align="center"< src="https://www.thecrazyprogrammer.com/wp-content/uploads/2019/02/Harvard-Architecture.jpg?ezimgfmt=rs:238x229/rscb1/ng:webp/ngcb1"
 alt="Architecture Harvard">
 
 
