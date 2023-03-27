@@ -112,9 +112,9 @@ offrir des performances supérieures dans certaines applications.
                     
 
                                                          
-                                                         
+<p align="center">                                                         
 <img src="https://interstices.info/wp-content/uploads/jalios/modele-neumann/modele-originel2.gif" alt="Architecture Von Neuman"> 
-                                                                                                                                                      
+</p>                                                                                                                                                   
                     
                     
  <h5> - Harvard </h5>                    
