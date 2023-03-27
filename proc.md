@@ -134,10 +134,10 @@ petite que la mémoire de données, ce qui peut limiter la taille des programmes
 En résumé, l'architecture Harvard est similaire à l'architecture von Neumann, mais avec des mémoires physiquement séparées pour les données et les instructions, ce qui
 améliore les performances de traitement, mais peut également rendre la conception et la mise en œuvre de l'ordinateur plus complexes.
                                                                                                                                
-                    
-<img align="center"< src="https://www.thecrazyprogrammer.com/wp-content/uploads/2019/02/Harvard-Architecture.jpg?ezimgfmt=rs:238x229/rscb1/ng:webp/ngcb1"
+<p align="center">                    
+<img  src="https://www.thecrazyprogrammer.com/wp-content/uploads/2019/02/Harvard-Architecture.jpg?ezimgfmt=rs:238x229/rscb1/ng:webp/ngcb1"
 alt="Architecture Harvard">
-
+</p>
 
 
 <h3>2 - Choix de Microcontroleurs</h3>
