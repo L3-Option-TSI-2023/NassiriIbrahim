@@ -1,7 +1,13 @@
 <h1 align="center";">Rapport du Projet</h1>
 
 <h2>I - Description de cahier  de charge </h2>
+  
+on prend le robot montée comme ci dessous et en appliquant le cahier de charge :
                     
+<p align="center">                                                         
+<img src="C:\Users\nassi\Downloads\WhatsApp Image 2023-05-20 à 17.27.06.jpg" alt="Notre Robot"> 
+</p>   
+                                                                                                                               
 - lorsque le robot tourne à droite ou à gauche, il met le clignotant c'est à dire qu'il doit y
 avoir deux leds jaunes (une droite et une gauche) qui clignoteront un peu avant de tourner puis
 s'arrêteront à la fin du virage.
@@ -204,12 +210,134 @@ void eteindreLedsRouges() {
                  
   digitalWrite(ledRouge3, LOW);
                  
-} // Les fonctions allumerLedsRouges et eteindreLedsRouges permettent respectivement d'allumer et d'éteindre toutes les LED rouges en modifiant l'état des broches
+} // Les fonctions allumerLedsRouges et eteindreLedsRouges permettent respectivement d'allumer
+et d'éteindre toutes les LED rouges en modifiant l'état des broches
 correspondantes.
                  
+<h3>3 -Bloc Setup </h3>                 
+
+La fonction Setup est une fonction spécifique d'Arduino qui n'est exécutée qu'une
+seule fois au démarrage du programme. Il est utilisé pour initialiser les paramètres de
+microcontrôleur, configurer les broches d'E/S et effectuer d'autres initialisations
+nécessaires.
                  
+void setup() {
                  
+  pinMode(brocheENA, OUTPUT);
                  
+  pinMode(brocheIN1, OUTPUT);
+                 
+  pinMode(brocheIN2, OUTPUT);
+                 
+  pinMode(brocheENB, OUTPUT);
+                 
+  pinMode(brocheIN3, OUTPUT);
+                 
+  pinMode(brocheIN4, OUTPUT);
+                 
+  pinMode(brochePotentiometre, INPUT);
+                 
+  pinMode(brocheBouton, INPUT_PULLUP);
+
+  pinMode(ledDroite, OUTPUT);
+                 
+  pinMode(ledGauche, OUTPUT);
+                 
+  pinMode(ledRouge1, OUTPUT);
+                 
+  pinMode(ledRouge2, OUTPUT);
+                 
+  pinMode(ledRouge3, OUTPUT);
+
+  lcd.begin(16, 2);
+} // La ligne pinMode d'une broche de configuration définit le mode de fonctionnement de la broche. La broche spécifiée est configurée comme une sortie (OUTPUT)
+ou une entrée (INPUT). pinPinButton est configuré avec INPUT_PULLUP, qui active la résistance pull-up interne de la broche.
+Utilisez ensuite pinMode pour configurer les broches de la LED et de l'écran LCD en tant que sorties.
+Enfin, appelez la fonction begin sur l'objet lcd pour initialiser l'écran LCD à une configuration de 16 colonnes et 2 lignes.
+                 
+
+<h3>3 -Bloc Loop </h3> 
+                 
+La fonction loop est exécutée en boucle continuellement après l'exécution de la fonction setup.
+C'est ici que le comportement principal du programme se trouve.                
+                 
+void loop() {
+                 
+int valeurPotentiometre = analogRead(brochePotentiometre);
+                 
+float vitesse = map(valeurPotentiometre, 0, 1023, 0, 5) / 5.0;
+                 
+float vitesseD = vitesse * (diametreRoue / 2) / (distanceEntreRoues / 2);
+                 
+float vitesseG = vitesse * (diametreRoue / 2) / (distanceEntreRoues / 2);
+
+ afficherVitesse(vitesse, vitesseD, vitesseG); // Affiche la vitesse sur l'écran LCD
+
+ buttonstate = digitalRead(brocheBouton);
+  
+//La première ligne de code lit la valeur du potentiomètre à l'aide de la fonction analogRead et la stocke dans la variable valeurPotentiometre.
+
+Ensuite, la vitesse est calculée à partir de la valeur du potentiomètre à l'aide de la fonction map. La valeur du potentiomètre, qui est comprise entre 0 et 1023,
+est mappée sur une plage de 0 à 5, représentant la vitesse maximale. La vitesse est ensuite normalisée en divisant par 5.0.
+
+Les variables vitesseD et vitesseG sont calculées en utilisant la vitesse, le diamètre de la roue et la distance entre les roues du robot. Ces variables
+représentent la vitesse respective des roues droite et gauche.
+
+La fonction afficherVitesse est appelée pour afficher la vitesse, la vitesse de la roue droite et la vitesse de la roue gauche sur l'écran LCD.
+
+La variable buttonstate est mise à jour en lisant l'état du bouton connecté à la broche brocheBouton à l'aide de digitalRead
+                 
+   if(buttonstate == LOW){
+                 
+  avancer(vitesse);
+                 
+  delay(5852); 
+                 
+  tournerDroite();
+                 
+  avancer(vitesse);
+                 
+  delay(953); 
+
+  tournerDroite();
+                 
+  avancer(vitesse);
+                 
+  delay(1209); 
+
+  tournerDroite();
+                 
+  avancer(vitesse);
+                 
+  delay(1840); 
+                 
+
+  tournerGauche();
+                 
+  avancer(vitesse);
+                 
+  delay(3700); 
+
+  tournerGauche();
+                 
+  avancer(vitesse);
+                 
+  delay(750);
+
+  allumerLedsRouges();
+  Stop();
+}
+}  // Ensuite, on vérifie si le bouton est enfoncé (buttonstate == LOW). Si c'est le cas, les instructions à l'intérieur du bloc if sont exécutées.
+
+La fonction avancer est appelée avec la vitesse actuelle pour faire avancer le robot.
+Un délai de 5852 millisecondes est ajouté pour parcourir une distance de 1.5 mètre et on utilisant la regle de trois on applique ca sur un 1.1 m qui nous donne
+3700 et ainsi de suite selon le circuit qu'on va voir sur le chapitre suivant 
+La fonction tournerDroite est appelée pour effectuer un virage vers la droite 
+La fonction tournerGauche est appelée pour effectuer un virage vers la gauche 
+                 
+<h2>III - Forme finale </h2>                 
+                 
+apres qu'on a utilisé et suivre ces demarches on aura un resultat comme ci dessous :
                  
                  
                  
