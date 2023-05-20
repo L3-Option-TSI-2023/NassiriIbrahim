@@ -340,9 +340,12 @@ La fonction tournerGauche est appelée pour effectuer un virage vers la gauche
 apres qu'on a utilisé et suivre ces demarches on aura un resultat comme ci dessous :
                  
 <p align="center">
-    <source src="https://twitter.com/i/status/1659924937262374912">
+  <video width="480" height="360" controls>
+    <source src="https://youtu.be/TGGMCZr-nvA?list=RDTGGMCZr-nvA" type="video/mp4">
+    Votre navigateur ne supporte pas la lecture de vidéos.
   </video>
 </p>
+
                  
                  
                  
