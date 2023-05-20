@@ -4,9 +4,9 @@
   
 on prend le robot montée comme ci dessous et en appliquant le cahier de charge :
                     
-                    
+<p align="center">                      
 ![le robot](https://github.com/L3-Option-TSI-2023/NassiriIbrahim/blob/main/WhatsApp%20Image%202023-05-20%20%C3%A0%2017.27.06.jpg)
-
+</p>
                           
 - lorsque le robot tourne à droite ou à gauche, il met le clignotant c'est à dire qu'il doit y
 avoir deux leds jaunes (une droite et une gauche) qui clignoteront un peu avant de tourner puis
