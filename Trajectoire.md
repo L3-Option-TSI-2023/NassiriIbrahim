@@ -341,7 +341,7 @@ apres qu'on a utilisé et suivre ces demarches on aura un resultat comme ci dess
                  
 <p align="center">
   <video width="480" height="360" controls>
-    <source src="https://twitter.com/i/status/1659924937262374912" type="video/mp4">
+    <source src="https://twitter.com/i/status/1659924937262374912">
   </video>
 </p>
                  
