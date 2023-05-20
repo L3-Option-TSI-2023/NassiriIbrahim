@@ -5,7 +5,7 @@
 on prend le robot montée comme ci dessous et en appliquant le cahier de charge :
                     
 <p align="center">                    
-![Image Description](C:\Users\nassi\Downloads\WhatsApp Image 2023-05-20 à 17.27.06.jpg)
+![le robot](C:\Users\nassi\Downloads\WhatsApp Image 2023-05-20 à 17.27.06.jpg)
 </p>
                           
 - lorsque le robot tourne à droite ou à gauche, il met le clignotant c'est à dire qu'il doit y
