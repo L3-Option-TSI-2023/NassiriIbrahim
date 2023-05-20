@@ -341,7 +341,10 @@ La fonction tournerGauche est appelée pour effectuer un virage vers la gauche
                  
 apres qu'on a utilisé et suivre ces demarches on aura un resultat comme ci dessous :
                  
-[![Video Thumbnail](thumbnail_image.png)](https://www.youtube.com/watch?v=OY12_h20yIU)
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+</p>
+
 
                  
                  
