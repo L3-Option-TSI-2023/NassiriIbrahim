@@ -4,10 +4,9 @@
   
 on prend le robot montée comme ci dessous et en appliquant le cahier de charge :
                     
-<p align="center">                                                         
-<img src="C:\Users\nassi\Downloads\WhatsApp Image 2023-05-20 à 17.27.06.jpg"> 
-</p>   
-                                                                                                                               
+<p align="center">                    
+<img  src="C:\Users\nassi\Downloads\WhatsApp Image 2023-05-20 à 17.27.06.jpg">
+</p>                                                                                                                     
 - lorsque le robot tourne à droite ou à gauche, il met le clignotant c'est à dire qu'il doit y
 avoir deux leds jaunes (une droite et une gauche) qui clignoteront un peu avant de tourner puis
 s'arrêteront à la fin du virage.
