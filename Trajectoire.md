@@ -5,7 +5,7 @@
 on prend le robot montée comme ci dessous et en appliquant le cahier de charge :
                     
 <p align="center">                    
-<img  src="https://scx2.b-cdn.net/gfx/news/2019/3-robot.jpg">
+<img  src="">
 </p>
                           
 - lorsque le robot tourne à droite ou à gauche, il met le clignotant c'est à dire qu'il doit y
@@ -339,6 +339,11 @@ La fonction tournerGauche est appelée pour effectuer un virage vers la gauche
                  
 apres qu'on a utilisé et suivre ces demarches on aura un resultat comme ci dessous :
                  
+<p align="center">
+  <video width="480" height="360" controls>
+    <source src="https://twitter.com/i/status/1659924937262374912" type="video/mp4">
+  </video>
+</p>
                  
                  
                  
