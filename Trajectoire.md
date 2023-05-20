@@ -5,8 +5,9 @@
 on prend le robot montée comme ci dessous et en appliquant le cahier de charge :
                     
 <p align="center">                    
-<img  src="[C:\Users\nassi\Downloads\WhatsApp Image 2023-05-20 à 17.27.06.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgeekflare.com%2Ffr%2Fbest-personal-robots%2F&psig=AOvVaw1pBopoxYxGgeqhSHkyUkeq&ust=1684683355337000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCW79ichP8CFQAAAAAdAAAAABAE)">
-</p>                                                                                                                     
+<img  src="https://www.thecrazyprogrammer.com/wp-content/uploads/2019/02/Harvard-Architecture.jpg?ezimgfmt=rs:238x229/rscb1/ng:webp/ngcb1">
+</p>
+                          
 - lorsque le robot tourne à droite ou à gauche, il met le clignotant c'est à dire qu'il doit y
 avoir deux leds jaunes (une droite et une gauche) qui clignoteront un peu avant de tourner puis
 s'arrêteront à la fin du virage.
