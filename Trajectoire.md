@@ -5,7 +5,7 @@
 on prend le robot montée comme ci dessous et en appliquant le cahier de charge :
                     
 <p align="center">                    
-<img  src="https://www.thecrazyprogrammer.com/wp-content/uploads/2019/02/Harvard-Architecture.jpg?ezimgfmt=rs:238x229/rscb1/ng:webp/ngcb1">
+<img  src="https://scx2.b-cdn.net/gfx/news/2019/3-robot.jpg">
 </p>
                           
 - lorsque le robot tourne à droite ou à gauche, il met le clignotant c'est à dire qu'il doit y
