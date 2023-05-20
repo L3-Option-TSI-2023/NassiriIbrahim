@@ -341,9 +341,8 @@ La fonction tournerGauche est appelée pour effectuer un virage vers la gauche
                  
 apres qu'on a utilisé et suivre ces demarches on aura un resultat comme ci dessous :
                  
-<p align="center">
-  <iframe width="300" height="250" src="https://github.com/L3-Option-TSI-2023/NassiriIbrahim/blob/main/Ma%20vid%C3%A9o.mp4" frameborder="0" allowfullscreen></iframe>
-</p>
+[![Video Preview](forme finale)](https://github.com/L3-Option-TSI-2023/NassiriIbrahim/blob/main/Ma%20vid%C3%A9o.mp4)
+
 
 
 
