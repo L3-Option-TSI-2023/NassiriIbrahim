@@ -89,7 +89,7 @@ void avancer(float vitesse) {
 
 void Stop() {
                     
-    int vitesseD = 0;
+  int vitesseD = 0;
                     
   int vitesseG = 0;
                     
@@ -141,13 +141,13 @@ void clignoter(int led, int duree) {
                  
   for (int i = 0; i < duree / 200; i++) {
                  
-    digitalWrite(led, HIGH);
+  digitalWrite(led, HIGH);
                  
-    delay(100);
+  delay(100);
                  
-    digitalWrite(led, LOW);
+  digitalWrite(led, LOW);
                  
-    delay(100);
+  delay(100);
                  
   }
 } // La fonction clignoter fait clignoter une LED spécifiée (led) pendant une durée donnée (duree). La broche de la LED est configurée en tant que sortie, puis la
