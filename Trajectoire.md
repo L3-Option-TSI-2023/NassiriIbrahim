@@ -28,7 +28,8 @@ LiquidCrystal lcd(rs, en, d4, d5, d6, d7); // ces broches sont declarés sur les
 24 , 22 , 25 , 23 respectivement  Ensuite, un objet lcd de type LiquidCrystal est créé en
 utilisant ces broches.
 
-const int brocheENA = 7;<ln>
+const int brocheENA = 7;
+                    
 const int brocheIN1 = 8;
 const int brocheIN2 = 9;
 const int brocheENB = 12;
