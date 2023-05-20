@@ -5,7 +5,7 @@
 on prend le robot montée comme ci dessous et en appliquant le cahier de charge :
                     
 <p align="center">
-  <img src="[relative/path/to/image.png](https://github.com/L3-Option-TSI-2023/NassiriIbrahim/blob/main/WhatsApp%20Image%202023-05-20%20%C3%A0%2017.27.06.jpg)" alt="le Robot">
+  <img src="https://github.com/L3-Option-TSI-2023/NassiriIbrahim/blob/main/WhatsApp%20Image%202023-05-20%20%C3%A0%2017.27.06.jpg" alt="le Robot">
 </p>
                     
 
